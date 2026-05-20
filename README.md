@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a beginner programmer who programs in Java and I still want to learn new things in the world of programming.
+I am a programmer who programs in Java and I still want to learn new things in the world of programming.
 
 
 ## 🌐 Socials:
